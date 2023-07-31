@@ -23,8 +23,8 @@ olist의 MD(Merchandiser). 상품화 계획부터 매입, 가공, 진열, 판매
 <div>
   <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/533f5acf-2844-41a8-908f-cd97f6fa2aab">
   <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/5a2b8c6a-0880-4eb7-9b8a-9678a0887d6a">
-  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/37cad844-0c1e-4a09-9529-a6bd0a37f93b">
-  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/d51e8045-3a32-4fa3-9178-f1e9270344e2">
+  <img width="600" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/37cad844-0c1e-4a09-9529-a6bd0a37f93b">
+  <img width="600" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/d51e8045-3a32-4fa3-9178-f1e9270344e2">
   <img width="704" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/8cade3e2-37fa-44ca-a925-0c71962ddcde">
 </div>
 
