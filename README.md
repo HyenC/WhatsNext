@@ -12,27 +12,27 @@ olist의 MD(Merchandiser). 상품화 계획부터 매입, 가공, 진열, 판매
 ## 1. 상품 분석
 
 <div>
-  <img width="500" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/3be1332f-9313-4052-b590-aaa413804538">
-  <img width="500" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/9d8ba888-18e0-4665-8ca2-acbd7ae0c165">
-  <img width="500" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/b7809e9e-f1eb-41c9-bd63-145febfd9c24">
-  <img width="500" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/55b81e8c-6f83-485e-81f3-28e4cd491f22">
+  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/3be1332f-9313-4052-b590-aaa413804538">
+  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/9d8ba888-18e0-4665-8ca2-acbd7ae0c165">
+  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/b7809e9e-f1eb-41c9-bd63-145febfd9c24">
+  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/55b81e8c-6f83-485e-81f3-28e4cd491f22">
 </div>
 
 ## 2. 시장 분석
 
 <div>
-  <img width="500" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/533f5acf-2844-41a8-908f-cd97f6fa2aab">
-  <img width="500" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/5a2b8c6a-0880-4eb7-9b8a-9678a0887d6a">
-  <img width="500" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/37cad844-0c1e-4a09-9529-a6bd0a37f93b">
-  <img width="500" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/d51e8045-3a32-4fa3-9178-f1e9270344e2">
+  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/533f5acf-2844-41a8-908f-cd97f6fa2aab">
+  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/5a2b8c6a-0880-4eb7-9b8a-9678a0887d6a">
+  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/37cad844-0c1e-4a09-9529-a6bd0a37f93b">
+  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/d51e8045-3a32-4fa3-9178-f1e9270344e2">
   <img width="704" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/8cade3e2-37fa-44ca-a925-0c71962ddcde">
 </div>
 
 ## 3. 고객 분석
 
 <div>
-  <img width="500" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/c495cb0b-37b3-4b38-aa4c-ab87900f36f3">
-  <img width="500" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/ed13def0-e888-4e36-9beb-8da3b8c26439">
-  <img width="500" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/26a4a426-c3fd-4244-85b1-389b91074627">
-  <img width="500" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/26b30a3a-0c90-4e5a-9b5c-551a069fdbee">
+  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/c495cb0b-37b3-4b38-aa4c-ab87900f36f3">
+  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/ed13def0-e888-4e36-9beb-8da3b8c26439">
+  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/26a4a426-c3fd-4244-85b1-389b91074627">
+  <img width="800" alt="image" src="https://github.com/HyenC/WhatsNext/assets/38906574/26b30a3a-0c90-4e5a-9b5c-551a069fdbee">
 </div>
